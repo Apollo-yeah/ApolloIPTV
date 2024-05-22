@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/TV-IPV4.m3u
+#EXT-X-SUB-URL https://raw.githubusercontent.com/Apollo-yeah/ApolloIPTV/main/IPTV-China.m3u
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png" group-title="中国央视",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
