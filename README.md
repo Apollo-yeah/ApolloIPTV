@@ -7,4 +7,4 @@ IPTV-m3u8 Links
 
 ### Android. including Phone, Tablet, TV and so on.
 - [Tivimate](https://tivimate.com/)
-- [M3UAndroid](https://github.com/oxyroid/M3UAndroid)å
+- [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
