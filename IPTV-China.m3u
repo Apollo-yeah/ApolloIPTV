@@ -39,13 +39,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png" group-title="中国央视",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png" group-title="国际频道",CETV-1
+#EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png" group-title="中国教育",CETV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png" group-title="国际频道",CETV-2
+#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png" group-title="中国教育",CETV-2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-id="cetv3" tvg-logo="cetv3.png" group-title="国际频道",CETV-3
+#EXTINF:-1 tvg-id="cetv3" tvg-logo="cetv3.png" group-title="中国教育",CETV-3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png" group-title="国际频道",CETV-4
+#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png" group-title="中国教育",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 #EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png" group-title="地方卫视",北京卫视
@@ -64,3 +64,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png" group-title="地方卫视",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
+#EXTINF:-1 group-title="中国香港",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="中国香港",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="中国香港",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="中国香港",CNA-1
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="中国香港",CNA-2
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
