@@ -79,3 +79,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 #EXTINF:-1 group-title="中国香港",无线新闻台-(需要代理)
 http://live.cooltv.top/tv/tvb.php?id=0
+
+#EXTINF:-1 group-title="Oversea", BBC News(720p)-(Needs Proxy)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="Oversea", Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
